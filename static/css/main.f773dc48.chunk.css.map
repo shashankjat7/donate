@@ -1,1 +1,0 @@
-{"version":3,"sources":["Services.css"],"names":[],"mappings":"AAAA,QACI,qBAAuB,CACvB,6BAAiC,CAEjC,cAAe,CACf,iBAEJ,CACA,iBALI,SAOJ","file":"main.f773dc48.chunk.css","sourcesContent":[".donate{\n    background-color: black;\n    font-family: 'Comfortaa', cursive;\n    color: red;\n    font-size: 30px;\n    text-align: center;\n\n}\n.tagline{\n    color: red;\n}\n"]}
